@@ -1,7 +1,8 @@
 # Exp-2
 # C++ Data Types and Their Sizes
-
-This document provides information about the sizes of common data types in C++. The sizes of data types can vary depending on the system and compiler, but the following are typical sizes for most platforms.
+## Aim:
+To study and implement C++ Program Structure (Data Types)
+## Theory:
 
 ## Common Data Types and Their Sizes
 

@@ -53,10 +53,7 @@ To study and implement C++ Program Structure (Data Types)
 - **`wchar_t`**:
   - Size: 2 bytes (16 bits) or 4 bytes (32 bits) depending on the system
   - Represents: Wide characters for internationalization
-
-## Checking Sizes in Your System
-
-To check the sizes of data types on your specific system, you can use the `sizeof` operator in C++. Here’s an example program that prints the sizes of various data types:
+## Code:
 
 ```cpp
 //saanvi
